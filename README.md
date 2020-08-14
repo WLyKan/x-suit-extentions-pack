@@ -2,7 +2,7 @@
 
 ## x-suit-extentions-pack
 
-this is a personal extentions pack.
+this is a personal [extentions pack](https://marketplace.visualstudio.com/items?itemName=kingxbeta.x-suit-extentions-pack).
 
 ## For more information
 
