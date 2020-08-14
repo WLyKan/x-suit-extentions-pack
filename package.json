@@ -1,0 +1,32 @@
+{
+    "name": "x-suit-extentions-pack",
+    "displayName": "X-suit extentions pack",
+    "description": "the extentions pack",
+    "publisher": "kingxbeta",
+    "version": "0.2.0",
+    "icon": "icons8-js-64.png",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "alexandersage.angular1-code-snippets",
+        "ChakrounAnas.turbo-console-log",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "hediet.vscode-drawio-insiders-build",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "msjsdiag.debugger-for-chrome",
+        "PKief.material-icon-theme",
+        "Shan.code-settings-sync",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "xabikos.JavaScriptSnippets"
+    ]
+}
